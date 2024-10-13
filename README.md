@@ -1,1 +1,3 @@
-# projet_hexa
+# projet_hexa  
+  
+PIERROT Nathan IL2
